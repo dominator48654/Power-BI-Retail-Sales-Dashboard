@@ -38,7 +38,7 @@ This project is a **Power BI Dashboard** built to analyze retail sales performan
 ## ⚙️ How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/retail-sales-dashboard.git
+   git clone https://github.com/dominator48654/retail-sales-dashboard.git
    ```  
 2. Open `RetailDashboard.pbix` in **Power BI Desktop**.  
 3. Explore the dashboard using slicers, drill-throughs, and KPIs.  
