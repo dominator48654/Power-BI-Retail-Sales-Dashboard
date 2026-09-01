@@ -17,11 +17,6 @@ This project is a **Power BI Dashboard** built to analyze retail sales performan
 
 ---
 
-## 🖼️ Dashboard Preview  
-(Add screenshots here, e.g., `![](images/dashboard-overview.png)`)  
-
----
-
 ## 🗂️ Project Structure  
 ```
 📦 Retail-Sales-Dashboard
